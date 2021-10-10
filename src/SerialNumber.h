@@ -29,7 +29,7 @@
 */
 
 /**
- @mainpage Class for easy and safe comparison of and limited arithmetic on serial numbers
+ @mainpage Safe and easy comparison of and limited arithmetic on serial numbers
  
  @section intro_sec Introduction
 
